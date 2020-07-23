@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="cover.png"
+     alt="Abinash Ram Suntah"
+     style="float: left; margin-right: 10px;" />
