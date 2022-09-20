@@ -1,5 +1,5 @@
 ## 💫 About Me:
-🔭 I’m currently working on one of my servers<br>🏫 I’m currently learning ruby <br>💬 Trying to migrate some sites from ars.gg to abina.sh<br>⚡ Fun fact: Most of my code is in private repository's!<br> 🦠 I'm not a virus 
+🔭 I’m currently working on one of my servers<br>🏫 I’m currently learning ruby <br>💬 Ap-Melb-1 & 2 have both just hit 1 tb of network Traffic! <br>⚡ Fun fact: Most of my code is in private repository's!<br> 🦠 I'm not a virus 
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Abinash3366&theme=great-gatsby&hide_border=true&include_all_commits=true&count_private=true)<br/>
